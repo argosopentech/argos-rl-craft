@@ -1,2 +1,3 @@
-# argos-rl-craft
+# Argos RLCraft
+
 Reinforcement learning Minecraft
